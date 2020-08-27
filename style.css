@@ -1,0 +1,16 @@
+body {
+    min-height: 80vh;
+    align-items: center;
+    background:url(img/background.jpg);
+    display: flex;
+    justify-content: center;
+
+}
+
+.clock {
+    color: red;
+    font-size: 5rem;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+
+}
